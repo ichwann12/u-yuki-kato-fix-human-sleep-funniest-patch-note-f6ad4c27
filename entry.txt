@@ -1,0 +1,1 @@
+v2.6.1: Fixed a bug where humans stayed awake until 3 a.m. scrolling. Sleep now installs correctly on the first try.
